@@ -15,7 +15,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Data.SqlClient;
 
-namespace Взаимодействие_приложений_с_Базой_Данных_при_помощи_Microsoft_2
+namespace Practic4_2_
 {
     public partial class MainWindow : Window
     {
